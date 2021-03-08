@@ -21,3 +21,7 @@ node primeiro_codigo
 para que o compilador fique ativo e compilando os arquivos automaticamente
 tsc --watch
 
+javascript
+https://www.w3schools.com/js/default.asp
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
