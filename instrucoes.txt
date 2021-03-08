@@ -1,0 +1,23 @@
+https://www.typescriptlang.org/
+
+npm install -g typescript
+
+compilador
+tsc     
+
+help do typescript
+tsc --help
+
+compilando em outra versão do javascript
+tsc primeiro_codigo --target "ES5"
+
+cria o arquivo de configuração do typescript com valores default
+tsc --init
+
+após compilação os arquivos 'js' são gerados (comando tsc)
+para executar algum arquivo 'js' gerado
+node primeiro_codigo
+
+para que o compilador fique ativo e compilando os arquivos automaticamente
+tsc --watch
+
